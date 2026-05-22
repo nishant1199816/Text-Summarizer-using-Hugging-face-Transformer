@@ -92,6 +92,10 @@ The user can:
 - Click the Summarize button
 - Generate AI-based summaries instantly
 
+# Model Download
+
+The trained model is not uploaded because of GitHub file size limitations.
+
 
 👨‍💻 Author
 Nishant Singh

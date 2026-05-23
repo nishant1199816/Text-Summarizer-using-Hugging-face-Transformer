@@ -104,4 +104,4 @@ Nishant Singh
 
 🔗 GitHub: https://github.com/nishant1199816
 
-🔗 LinkedIn: https://www.linkedin.com/in/nishant-singh-55b57b16a/
+🔗 LinkedIn: https://www.linkedin.com/in/nishant-singh-tech/ 
